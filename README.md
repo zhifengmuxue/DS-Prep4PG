@@ -43,4 +43,3 @@ Feel free to open issues, suggest improvements, or submit pull requests. Let’s
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
-```
